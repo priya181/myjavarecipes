@@ -1,5 +1,5 @@
 # myjavarecipes
 
 Content: 
-DS and Algos
-Java Programs
+* DS and Algos
+* Java Programs
